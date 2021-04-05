@@ -1,0 +1,147 @@
+/* Ipad portrait- firebrick*/
+
+@media only screen and (max-width: 768px) {
+
+html,
+body {
+    color:firebrick;
+}
+
+
+nav {
+   width: 90%;
+        
+    }
+    
+
+nav li{
+    background-color: firebrick;
+    padding: 2px;
+    margin: 4px;
+    
+}
+
+
+h1 {
+    color:#d90000;
+    font-family:fantasy;
+}
+
+h2 {
+    color:firebrick;
+    font-family:fantasy;
+}
+
+
+h3 {
+    color:brown;
+    font-family:fantasy;
+}
+
+    
+.one{
+    background-color: #7b0e0e;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.two{
+    background-color: #9f1b1b;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.three{
+    background-color: #d82929;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.four{
+    background-color: #ff7c7c;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+}
+
+
+/* Phone- #24ad0b- Green*/
+@media only screen and (max-width: 480px) {
+    
+html,
+body {
+    background-color:black;
+    color:Green;
+}
+
+    
+nav ul li {
+        background-color:#1c741c;
+        text-transform: uppercase;
+        
+    }   
+    
+
+
+nav a{
+    padding: 2px;
+    margin: 4px;
+    
+}
+
+nav {
+    width: 90%; 
+    }
+
+
+h1 {
+    color:#125012;
+    font-family:fantasy;
+}
+
+h2 {
+    color:Green;
+    font-family:fantasy;
+}
+
+
+h3 {
+    color:Green;
+    font-family:fantasy;
+}
+
+.one{
+    background-color: #0e460e;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.two{
+    background-color: #226d22;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.three{
+    background-color: #289028;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.four{
+    background-color: #6bcc6b;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+    
+}
